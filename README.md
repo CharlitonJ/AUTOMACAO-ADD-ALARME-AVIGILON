@@ -18,7 +18,7 @@ pip install pyautogui pyperclip opencv-python
 
 O pacote opencv-python é essencial para habilitar o parâmetro de confiança (confidence) na busca pelas imagens.
 
-## Lista de Arquivos de Imagem Necessários
+## Lista de Arquivos de Imagem Necessários  
 
 O script busca pelos seguintes arquivos (formato .png) na mesma pasta do código:
 
@@ -30,7 +30,7 @@ Comandos de Ação: add_dist.png, adm.png, add2.png, reproduzir.png.
 
 Configuração de Alarme: alarme.png, novo.png, ativ.png, terminar.png.
 
-## Instruções de Uso
+## Instruções de Uso  
 
 Certifique-se de que o software de monitoramento esteja aberto e visível no monitor principal.
 
@@ -42,7 +42,7 @@ Após o comando inicial, você terá 5 segundos para posicionar a janela correta
 
 Não utilize o mouse ou o teclado enquanto o processo estiver em execução.
 
-## Avisos e Segurança
+## Avisos e Segurança  
 
 Interrupção de Emergência (Failsafe): Caso precise parar o script imediatamente, mova o cursor do mouse para qualquer um dos quatro cantos da tela. Isso forçará a interrupção do programa.
 
