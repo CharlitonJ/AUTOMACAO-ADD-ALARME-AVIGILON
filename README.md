@@ -1,4 +1,4 @@
-# Automador de Cadastro de Alarmes por Câmera
+# Automação de Cadastro de Alarmes por Câmera
 
 Este script foi desenvolvido para automatizar o fluxo de configuração de alarmes vinculados a câmeras em sistemas de monitoramento de segurança. O objetivo é padronizar a nomenclatura e ativar os alertas de forma sequencial, eliminando falhas manuais em processos repetitivos.
 
