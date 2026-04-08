@@ -17,6 +17,7 @@ Para executar este script, é necessário ter o Python instalado e as seguintes 
 pip install pyautogui pyperclip opencv-python
 
 O pacote opencv-python é essencial para habilitar o parâmetro de confiança (confidence) na busca pelas imagens.
+```
 
 ## Lista de Arquivos de Imagem Necessários  
 
